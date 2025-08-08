@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.Python
+.venv
+venv/
+ENV/
+env/
+*.log
+vector_data/
+chroma_data/
+embeddings_cache/
+.api_keys
+.env
