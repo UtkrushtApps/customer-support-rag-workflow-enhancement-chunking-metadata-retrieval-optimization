@@ -1,0 +1,9 @@
+CHROMA_HOST = "localhost"
+CHROMA_PORT = 8000
+COLLECTION_NAME = "support_articles"
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 200
+K = 5
+VECTOR_DIM = 384
+OPENAI_API_KEY = "sk-..."
+GENERATION_MODEL = "gpt-3.5-turbo"
